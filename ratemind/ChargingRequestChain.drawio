@@ -18,7 +18,7 @@
             <mxPoint x="110" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AtXekOLArrXBBOJeR6ue-4" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Charge Request:&lt;/font&gt;&lt;/b&gt;&lt;div align=&quot;left&quot;&gt;- event_type&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- requested_units&lt;br&gt;- used_units&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- ...&lt;/div&gt;" vertex="1">
+        <mxCell id="AtXekOLArrXBBOJeR6ue-4" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Charge Request:&lt;/font&gt;&lt;/b&gt;&lt;div align=&quot;left&quot;&gt;- event_id&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- event_type&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- requested_units&lt;br&gt;- used_units&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- ...&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="120" x="110" y="90" as="geometry" />
         </mxCell>
         <mxCell id="AtXekOLArrXBBOJeR6ue-38" edge="1" parent="1" source="AtXekOLArrXBBOJeR6ue-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AtXekOLArrXBBOJeR6ue-31">
@@ -112,8 +112,8 @@
         <mxCell id="AtXekOLArrXBBOJeR6ue-24" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;gradientColor=#97d077;" value="&lt;div&gt;rated&lt;/div&gt;&lt;div&gt;events&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="130" x="790" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="AtXekOLArrXBBOJeR6ue-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Courier New;fontSize=16;fontStyle=1" value="Charging requests processing chain" vertex="1">
-          <mxGeometry height="30" width="400" x="40" y="50" as="geometry" />
+        <mxCell id="AtXekOLArrXBBOJeR6ue-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Courier New;fontSize=22;fontStyle=1" value="Charging requests processing flow" vertex="1">
+          <mxGeometry height="70" width="510" x="410" y="60" as="geometry" />
         </mxCell>
         <mxCell id="AtXekOLArrXBBOJeR6ue-40" edge="1" parent="1" source="AtXekOLArrXBBOJeR6ue-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AtXekOLArrXBBOJeR6ue-7">
           <mxGeometry relative="1" as="geometry" />
