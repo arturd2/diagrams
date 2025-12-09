@@ -13,7 +13,7 @@
         <mxCell id="TbJk2hnJK0C-UUGebhx7-50" parent="TbJk2hnJK0C-UUGebhx7-48" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" value="Type&#xa;" vertex="1">
           <mxGeometry height="22" width="140" y="56" as="geometry" />
         </mxCell>
-        <mxCell id="TbJk2hnJK0C-UUGebhx7-51" parent="TbJk2hnJK0C-UUGebhx7-48" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" value="DefaultProperties" vertex="1">
+        <mxCell id="TbJk2hnJK0C-UUGebhx7-51" parent="TbJk2hnJK0C-UUGebhx7-48" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" value="BcSpecId" vertex="1">
           <mxGeometry height="26" width="140" y="78" as="geometry" />
         </mxCell>
         <mxCell id="TbJk2hnJK0C-UUGebhx7-52" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="BucketSpecification" vertex="1">
@@ -346,6 +346,16 @@
         </mxCell>
         <mxCell id="TbJk2hnJK0C-UUGebhx7-200" edge="1" parent="1" source="TbJk2hnJK0C-UUGebhx7-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.383;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" target="TbJk2hnJK0C-UUGebhx7-151">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbJk2hnJK0C-UUGebhx7-201" edge="1" parent="1" source="TbJk2hnJK0C-UUGebhx7-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" target="TbJk2hnJK0C-UUGebhx7-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="151" />
+              <mxPoint x="210" y="120" />
+              <mxPoint x="20" y="120" />
+              <mxPoint x="20" y="477" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
