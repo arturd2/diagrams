@@ -1,9 +1,50 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.2.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.2.7">
   <diagram name="Page-1" id="430FLHzrXvQBmIz2XRS3">
-    <mxGraphModel>
+    <mxGraphModel dx="2258" dy="1274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dM-CmXTPNykstu6dNa1d-4" edge="1" parent="1" source="dM-CmXTPNykstu6dNa1d-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="dM-CmXTPNykstu6dNa1d-2" value="&amp;lt;&amp;lt;produces&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" x="-0.4" y="-10" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM-CmXTPNykstu6dNa1d-5" edge="1" parent="1" source="dM-CmXTPNykstu6dNa1d-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="dM-CmXTPNykstu6dNa1d-3" value="&amp;lt;&amp;lt;produces&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" x="-0.2727" y="10" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM-CmXTPNykstu6dNa1d-1" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Courier New&quot;&gt;product&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dM-CmXTPNykstu6dNa1d-2" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Courier New&quot;&gt;bucket&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dM-CmXTPNykstu6dNa1d-6" edge="1" parent="1" source="dM-CmXTPNykstu6dNa1d-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="dM-CmXTPNykstu6dNa1d-2" value="&amp;lt;&amp;lt;consumes&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" y="-10" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM-CmXTPNykstu6dNa1d-3" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Courier New&quot;&gt;rating&lt;br&gt;function&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dM-CmXTPNykstu6dNa1d-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Courier New;" value="ProductPipelineFunctions&lt;br&gt;table" vertex="1">
+          <mxGeometry height="40" width="220" x="550" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dM-CmXTPNykstu6dNa1d-11" edge="1" parent="1" source="dM-CmXTPNykstu6dNa1d-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 1;fillColor=#fff2cc;strokeColor=#d6b656;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dM-CmXTPNykstu6dNa1d-10" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Courier New;" value="ProductRecharges&lt;br&gt;table" vertex="1">
+          <mxGeometry height="40" width="220" x="60" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dM-CmXTPNykstu6dNa1d-12" edge="1" parent="1" source="dM-CmXTPNykstu6dNa1d-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 1;fillColor=#fff2cc;strokeColor=#d6b656;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="170" as="sourcePoint" />
+            <mxPoint x="520" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
