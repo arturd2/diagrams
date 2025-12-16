@@ -73,13 +73,13 @@
         <mxCell id="iijbJF9zA6o5uvbUgPZa-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#990000;" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;[charger+]&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="130" x="690" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="iijbJF9zA6o5uvbUgPZa-81" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;fontSize=21;fontFamily=Courier New;" value="&lt;font style=&quot;color: rgb(153, 0, 0); font-size: 15px;&quot;&gt;usage&lt;br&gt;consumer&lt;/font&gt;" vertex="1">
+        <mxCell id="iijbJF9zA6o5uvbUgPZa-81" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;fontSize=21;fontFamily=Courier New;" value="&lt;font style=&quot;color: rgb(153, 0, 0); font-size: 15px;&quot;&gt;usageConsumer&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="150" x="704" y="210" as="geometry" />
         </mxCell>
         <mxCell id="iijbJF9zA6o5uvbUgPZa-82" edge="1" parent="1" source="iijbJF9zA6o5uvbUgPZa-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="iijbJF9zA6o5uvbUgPZa-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iijbJF9zA6o5uvbUgPZa-83" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;fontSize=21;fontFamily=Courier New;" value="&lt;font style=&quot;color: rgb(153, 0, 0); font-size: 15px;&quot;&gt;usage adapter&lt;br&gt;{enhancer}&lt;/font&gt;" vertex="1">
+        <mxCell id="iijbJF9zA6o5uvbUgPZa-83" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;fontSize=21;fontFamily=Courier New;" value="&lt;font style=&quot;color: rgb(153, 0, 0); font-size: 15px;&quot;&gt;usageAdapter&lt;br&gt;(enhancer)&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="150" x="330" y="235" as="geometry" />
         </mxCell>
         <mxCell id="iijbJF9zA6o5uvbUgPZa-84" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" value="usageEvents&lt;br&gt;(internal)" vertex="1">
@@ -180,7 +180,7 @@
         <mxCell id="uAqomyDq11uhxBlzb_ng-7" edge="1" parent="1" source="uAqomyDq11uhxBlzb_ng-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.439;entryDx=0;entryDy=0;entryPerimeter=0;" target="iijbJF9zA6o5uvbUgPZa-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uAqomyDq11uhxBlzb_ng-9" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=2;" value="external_id to account_id&lt;br&gt;mapping DB" vertex="1">
+        <mxCell id="uAqomyDq11uhxBlzb_ng-9" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=2;" value="DB: map[external_id] =&amp;gt; account_id" vertex="1">
           <mxGeometry height="70" width="140" x="530" y="290" as="geometry" />
         </mxCell>
       </root>
