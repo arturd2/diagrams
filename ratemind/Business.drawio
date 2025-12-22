@@ -1,9 +1,169 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.9">
   <diagram name="Page-1" id="aXZJ6X6NI-1fcDPUbd52">
-    <mxGraphModel>
+    <mxGraphModel dx="2258" dy="1274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-7" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-1" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="XvA3PJMOn9MQRPuoxT5I-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-31" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-1" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="XvA3PJMOn9MQRPuoxT5I-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-52" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-1" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="XvA3PJMOn9MQRPuoxT5I-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-53" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-1" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="XvA3PJMOn9MQRPuoxT5I-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};treeFolding=1;treeMoving=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;fontStyle=1;fontSize=13;" value="&lt;div&gt;RateMind&lt;/div&gt;&lt;div&gt;[kapitał]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="50" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-42" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-6" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="XvA3PJMOn9MQRPuoxT5I-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};treeFolding=1;treeMoving=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;fontStyle=1;fontSize=13;" value="&lt;div&gt;Dokumenty&lt;/div&gt;[dokumenty]" vertex="1">
+          <mxGeometry height="40" width="100" x="30" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-13" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-8" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="XvA3PJMOn9MQRPuoxT5I-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-15" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-8" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="XvA3PJMOn9MQRPuoxT5I-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-16" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-8" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="XvA3PJMOn9MQRPuoxT5I-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Zakładowy [KZ]" vertex="1">
+          <mxGeometry height="30" width="130" x="220" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-19" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-10" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="XvA3PJMOn9MQRPuoxT5I-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-33" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-10" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="XvA3PJMOn9MQRPuoxT5I-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-36" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-10" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="XvA3PJMOn9MQRPuoxT5I-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-39" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-10" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="XvA3PJMOn9MQRPuoxT5I-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-40" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-10" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="XvA3PJMOn9MQRPuoxT5I-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-54" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-10" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="XvA3PJMOn9MQRPuoxT5I-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Zapasowy" vertex="1">
+          <mxGeometry height="30" width="100" x="255" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-46" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-11" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="XvA3PJMOn9MQRPuoxT5I-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-48" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-11" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="XvA3PJMOn9MQRPuoxT5I-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-50" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-11" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="XvA3PJMOn9MQRPuoxT5I-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-11" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Kapitały Rezerwowe" vertex="1">
+          <mxGeometry height="30" width="150" x="255" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="Źródło: tworzony bezpośrednio z emisji akcji" vertex="1">
+          <mxGeometry height="30" width="280" x="390" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Cel: reprezentacja i reputacja&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="200" x="395" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-17" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Jego zmiana wymaga zmiany statutu i wpisu do KRS" vertex="1">
+          <mxGeometry height="30" width="330" x="395" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-20" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Funkcja: ochrona kapitału zakładowego" vertex="1">
+          <mxGeometry height="30" width="250" x="410" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-55" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-21" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="XvA3PJMOn9MQRPuoxT5I-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-21" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Źródło: tworzony z zysku" vertex="1">
+          <mxGeometry height="30" width="180" x="405" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-23" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-22" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="XvA3PJMOn9MQRPuoxT5I-24" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="762" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-26" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-22" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="XvA3PJMOn9MQRPuoxT5I-25" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-29" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-22" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="XvA3PJMOn9MQRPuoxT5I-27" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-30" edge="1" parent="1" source="XvA3PJMOn9MQRPuoxT5I-22" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="XvA3PJMOn9MQRPuoxT5I-28" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-22" collapsed="1" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Zysk/Strata-&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="245" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-24" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="[rozwój] Kapitał Zapasowy" vertex="1" visible="0">
+          <mxGeometry height="30" width="180" x="385" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-25" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Kapitał Rezerwowy" vertex="1" visible="0">
+          <mxGeometry height="30" width="150" x="395" y="782" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-27" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Wypłata dywidendy" vertex="1" visible="0">
+          <mxGeometry height="30" width="150" x="395" y="822" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-28" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Pokrycie strat" vertex="1" visible="0">
+          <mxGeometry height="30" width="120" x="395" y="862" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-34" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Na działalność operacyjną" vertex="1">
+          <mxGeometry height="30" width="180" x="405" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-37" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Finansowanie&amp;nbsp; rozwoju" vertex="1">
+          <mxGeometry height="30" width="170" x="410" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-38" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Pokrywanie strat" vertex="1">
+          <mxGeometry height="30" width="130" x="410" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-41" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Źródło2: dokapitalizacja akcjonariuszy" vertex="1">
+          <mxGeometry height="30" width="250" x="405" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-45" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Umowa spółki = &quot;Status&quot; [S24]" vertex="1">
+          <mxGeometry height="30" width="210" x="185" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-47" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Tworzone &lt;strong data-start=&quot;1265&quot; data-end=&quot;1294&quot;&gt;dobrowolnie &lt;/strong&gt;&lt;span data-start=&quot;1265&quot; data-end=&quot;1294&quot;&gt;[WZ] lub&lt;/span&gt;&lt;strong data-start=&quot;1265&quot; data-end=&quot;1294&quot;&gt; statutowo&lt;/strong&gt; na określone cele" vertex="1">
+          <mxGeometry height="30" width="380" x="440" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-49" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="Środki „odłożone na cel”" vertex="1">
+          <mxGeometry height="30" width="170" x="440" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-51" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Większa elastyczność niż kapitał zapasowy" vertex="1">
+          <mxGeometry height="30" width="270" x="440" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="XvA3PJMOn9MQRPuoxT5I-56" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="8-10% przychodów z projektu" vertex="1">
+          <mxGeometry height="30" width="200" x="610" y="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
