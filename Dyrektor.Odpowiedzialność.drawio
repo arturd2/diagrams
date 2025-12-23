@@ -361,7 +361,7 @@
           <mxGeometry height="80" width="470" x="225" y="1390" as="geometry" />
         </mxCell>
         <mxCell id="Bd20LJOsurKObIUgYOU8-100" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="ważny znacznik czasowy (dowód) na dokumentach&lt;br&gt;&amp;nbsp;SHA/umowa dyrektorska etc - przed podpisaniem&lt;br&gt;&amp;nbsp;umowy z klientem" vertex="1">
-          <mxGeometry height="60" width="320" x="750" y="1400" as="geometry" />
+          <mxGeometry height="60" width="320" x="754" y="1400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
