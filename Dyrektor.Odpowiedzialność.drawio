@@ -52,6 +52,11 @@
             <mxPoint x="250" y="1222" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Bd20LJOsurKObIUgYOU8-97" edge="1" parent="1" source="Bd20LJOsurKObIUgYOU8-10" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="Bd20LJOsurKObIUgYOU8-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Bd20LJOsurKObIUgYOU8-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};treeFolding=1;treeMoving=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;fontStyle=1;fontSize=13;" value="Odpowiedzialność&lt;br&gt;Dyrektora" vertex="1">
           <mxGeometry height="70" width="140" x="30" y="590" as="geometry" />
         </mxCell>
@@ -133,8 +138,8 @@
         <mxCell id="Bd20LJOsurKObIUgYOU8-32" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="akcjonariusze dają GO na podpisanie umowy z klientem" vertex="1">
           <mxGeometry height="30" width="340" x="494" y="1072" as="geometry" />
         </mxCell>
-        <mxCell id="Bd20LJOsurKObIUgYOU8-33" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="wspiera BJR" vertex="1">
-          <mxGeometry height="30" width="110" x="545" y="92" as="geometry" />
+        <mxCell id="Bd20LJOsurKObIUgYOU8-33" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="wzmocnienie BJR" vertex="1">
+          <mxGeometry height="30" width="140" x="545" y="92" as="geometry" />
         </mxCell>
         <mxCell id="Bd20LJOsurKObIUgYOU8-34" edge="1" parent="1" source="Bd20LJOsurKObIUgYOU8-35" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="Bd20LJOsurKObIUgYOU8-36">
           <mxGeometry relative="1" as="geometry">
@@ -270,8 +275,8 @@
         <mxCell id="Bd20LJOsurKObIUgYOU8-73" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="Business Judgement Rule (BJR) - [KSH]" vertex="1">
           <mxGeometry height="30" width="260" x="580" y="712" as="geometry" />
         </mxCell>
-        <mxCell id="Bd20LJOsurKObIUgYOU8-74" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="działał lojalnie wobec spółki" vertex="1">
-          <mxGeometry height="30" width="190" x="900" y="640" as="geometry" />
+        <mxCell id="Bd20LJOsurKObIUgYOU8-74" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="działał lojalnie wobec spółki (nie swoim)" vertex="1">
+          <mxGeometry height="30" width="260" x="905" y="640" as="geometry" />
         </mxCell>
         <mxCell id="Bd20LJOsurKObIUgYOU8-75" edge="1" parent="1" source="Bd20LJOsurKObIUgYOU8-77" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="Bd20LJOsurKObIUgYOU8-80">
           <mxGeometry relative="1" as="geometry">
@@ -282,6 +287,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1270" y="752" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Bd20LJOsurKObIUgYOU8-96" edge="1" parent="1" source="Bd20LJOsurKObIUgYOU8-77" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Bd20LJOsurKObIUgYOU8-95">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bd20LJOsurKObIUgYOU8-77" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="w granicach uzasadnionego ryzyka gospodarczego" vertex="1">
           <mxGeometry height="30" width="320" x="900" y="682" as="geometry" />
@@ -340,6 +348,20 @@
         </mxCell>
         <mxCell id="Bd20LJOsurKObIUgYOU8-94" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="zarządzanie finansami operacyjnymi" vertex="1">
           <mxGeometry height="30" width="240" x="460" y="382" as="geometry" />
+        </mxCell>
+        <mxCell id="Bd20LJOsurKObIUgYOU8-95" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="sąd nie ocenia, czy decyzja była „dobra” w skutkach, tylko&amp;nbsp;&lt;br&gt;czy była „rozsądna” w momencie jej podejmowania." vertex="1">
+          <mxGeometry height="38" width="350" x="1250" y="742" as="geometry" />
+        </mxCell>
+        <mxCell id="Bd20LJOsurKObIUgYOU8-99" edge="1" parent="1" source="Bd20LJOsurKObIUgYOU8-98" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="Bd20LJOsurKObIUgYOU8-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bd20LJOsurKObIUgYOU8-98" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Ważna klauzula w statut/SHA/umowę dyrektorską:&amp;nbsp;&lt;br&gt;„Dyrektor nie ponosi odpowiedzialności za skutki decyzji podjętych w granicach&amp;nbsp;&lt;br&gt;uzasadnionego ryzyka gospodarczego, jeżeli działał lojalnie wobec spółki&amp;nbsp;&lt;br&gt;i na podstawie dostępnych informacji.”" vertex="1">
+          <mxGeometry height="80" width="470" x="225" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="Bd20LJOsurKObIUgYOU8-100" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="ważny znacznik czasowy (dowód) na dokumentach&lt;br&gt;&amp;nbsp;SHA/umowa dyrektorska etc - przed podpisaniem&lt;br&gt;&amp;nbsp;umowy z klientem" vertex="1">
+          <mxGeometry height="60" width="320" x="750" y="1400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
