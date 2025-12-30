@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.9">
   <diagram name="Page-1" id="aXZJ6X6NI-1fcDPUbd52">
-    <mxGraphModel dx="1904" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3108" dy="1274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -379,8 +379,14 @@
         <mxCell id="E9Yy54vSpHJqMohwjjos-65" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="akcje: serie" vertex="1">
           <mxGeometry height="30" width="100" x="1023.75" y="1620" as="geometry" />
         </mxCell>
-        <mxCell id="E9Yy54vSpHJqMohwjjos-67" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="[AZ] założycielskie: 25K - po równo 5K" vertex="1">
-          <mxGeometry height="30" width="250" x="1200" y="1540" as="geometry" />
+        <mxCell id="TmmlFNzVFcOxhoJ5fm29-3" edge="1" parent="1" source="E9Yy54vSpHJqMohwjjos-67" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="TmmlFNzVFcOxhoJ5fm29-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TmmlFNzVFcOxhoJ5fm29-5" edge="1" parent="1" source="E9Yy54vSpHJqMohwjjos-67" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="TmmlFNzVFcOxhoJ5fm29-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E9Yy54vSpHJqMohwjjos-67" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="[AZ] założycielskie: 50K - po równo 10K" vertex="1">
+          <mxGeometry height="30" width="260" x="1195" y="1480" as="geometry" />
         </mxCell>
         <mxCell id="E9Yy54vSpHJqMohwjjos-73" edge="1" parent="1" source="E9Yy54vSpHJqMohwjjos-72" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="E9Yy54vSpHJqMohwjjos-74">
           <mxGeometry relative="1" as="geometry">
@@ -423,20 +429,17 @@
         </mxCell>
         <mxCell id="E9Yy54vSpHJqMohwjjos-76" edge="1" parent="1" source="E9Yy54vSpHJqMohwjjos-75" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="E9Yy54vSpHJqMohwjjos-77">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1450" y="1585" as="targetPoint" />
+            <mxPoint x="1448.75" y="1575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E9Yy54vSpHJqMohwjjos-106" edge="1" parent="1" source="E9Yy54vSpHJqMohwjjos-75" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E9Yy54vSpHJqMohwjjos-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E9Yy54vSpHJqMohwjjos-107" edge="1" parent="1" source="E9Yy54vSpHJqMohwjjos-75" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E9Yy54vSpHJqMohwjjos-104">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="E9Yy54vSpHJqMohwjjos-75" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" value="projektowe 50K + Reverse Vesting" vertex="1">
+          <mxGeometry height="30" width="230" x="1198.75" y="1570" as="geometry" />
         </mxCell>
-        <mxCell id="E9Yy54vSpHJqMohwjjos-75" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" value="projektowe 25K + Reverse Vesting" vertex="1">
-          <mxGeometry height="30" width="230" x="1200" y="1580" as="geometry" />
-        </mxCell>
-        <mxCell id="E9Yy54vSpHJqMohwjjos-77" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="Seria B: zwykłe 4999 - Marek" vertex="1">
-          <mxGeometry height="30" width="200" x="1480" y="1540" as="geometry" />
+        <mxCell id="E9Yy54vSpHJqMohwjjos-77" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="Seria B1: 40K akcje zwykłe, po 10K dla T,A,S,K" vertex="1">
+          <mxGeometry height="30" width="300" x="1473.75" y="1550" as="geometry" />
         </mxCell>
         <mxCell id="8bbCRTIw0yRLnIztGSLi-31" edge="1" parent="1" source="E9Yy54vSpHJqMohwjjos-78" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="8bbCRTIw0yRLnIztGSLi-32">
           <mxGeometry relative="1" as="geometry">
@@ -503,22 +506,19 @@
         <mxCell id="E9Yy54vSpHJqMohwjjos-101" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f9f7ed;strokeColor=#36393d;" value="umowa dyrektorska" vertex="1">
           <mxGeometry height="30" width="150" x="765" y="2370" as="geometry" />
         </mxCell>
-        <mxCell id="E9Yy54vSpHJqMohwjjos-104" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="Seria D: nieme 2K [AN] - po 5k T,A,S,K&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="260" x="1480" y="1620" as="geometry" />
-        </mxCell>
-        <mxCell id="E9Yy54vSpHJqMohwjjos-105" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="Seria C: uprzywilejowana 1 [AG] - Marek" vertex="1">
-          <mxGeometry height="30" width="260" x="1480" y="1580" as="geometry" />
+        <mxCell id="E9Yy54vSpHJqMohwjjos-105" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="Seria B2: uprzywilejowanego głosu x2 [AG] - 10001 dla Marka" vertex="1">
+          <mxGeometry height="30" width="370" x="1468.75" y="1590" as="geometry" />
         </mxCell>
         <mxCell id="E9Yy54vSpHJqMohwjjos-111" edge="1" parent="1" source="E9Yy54vSpHJqMohwjjos-110" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="E9Yy54vSpHJqMohwjjos-112">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1535" y="1695" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E9Yy54vSpHJqMohwjjos-110" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" value="[opcja] pracownicze nieme [AN] 25K&amp;nbsp;&lt;br&gt;- cena nominalna 0, z ograniczeniami" vertex="1">
+        <mxCell id="E9Yy54vSpHJqMohwjjos-110" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" value="[opcja] pracownicze nieme [AN] 50K&amp;nbsp;&lt;br&gt;- cena nominalna 0, z ograniczeniami" vertex="1">
           <mxGeometry height="50" width="240" x="1205" y="1620" as="geometry" />
         </mxCell>
         <mxCell id="E9Yy54vSpHJqMohwjjos-112" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" value="obowiązek przekazania ich spółce w SHA" vertex="1">
-          <mxGeometry height="30" width="270" x="1475" y="1665" as="geometry" />
+          <mxGeometry height="30" width="270" x="1475" y="1640" as="geometry" />
         </mxCell>
         <mxCell id="E9Yy54vSpHJqMohwjjos-113" collapsed="1" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="organ: rada syrektorów [1-5]" vertex="1">
           <mxGeometry height="30" width="190" x="1008.75" y="1780" as="geometry" />
@@ -553,8 +553,8 @@
         <mxCell id="E9Yy54vSpHJqMohwjjos-121" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="przeniesienia praw do IP jako wkład w zamian&amp;nbsp;&lt;br&gt;za przyszłe wynagrodzenia w PZ" vertex="1">
           <mxGeometry height="26" width="290" x="-237" y="1723" as="geometry" />
         </mxCell>
-        <mxCell id="E9Yy54vSpHJqMohwjjos-123" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="siła głosu:&amp;nbsp;&lt;br&gt;Marek+1 = 15001 vs 15000 reszta" vertex="1">
-          <mxGeometry height="30" width="230" x="1215" y="1695" as="geometry" />
+        <mxCell id="E9Yy54vSpHJqMohwjjos-123" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="siła głosu:&amp;nbsp;&lt;br&gt;Marek+1 = 60002 vs 60000 pozostali" vertex="1">
+          <mxGeometry height="35" width="240" x="1210" y="1685" as="geometry" />
         </mxCell>
         <mxCell id="8bbCRTIw0yRLnIztGSLi-26" edge="1" parent="1" source="E9Yy54vSpHJqMohwjjos-126" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="8bbCRTIw0yRLnIztGSLi-27">
           <mxGeometry relative="1" as="geometry">
@@ -825,8 +825,8 @@
         <mxCell id="8bbCRTIw0yRLnIztGSLi-106" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="współpraca z zespołem" vertex="1">
           <mxGeometry height="30" width="170" x="-497" y="1860" as="geometry" />
         </mxCell>
-        <mxCell id="8bbCRTIw0yRLnIztGSLi-109" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="akcje to struktura właścicielska,&lt;br&gt;NIE regulują kto ile pracuje i za co odpowiada" vertex="1">
-          <mxGeometry height="36" width="290" x="1210" y="1734" as="geometry" />
+        <mxCell id="8bbCRTIw0yRLnIztGSLi-109" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="akcje to struktura właścicielska,&lt;br&gt;NIE regulują kto ile pracuje i za co odpowiada -&amp;gt; SHA" vertex="1">
+          <mxGeometry height="40" width="330" x="1210" y="1730" as="geometry" />
         </mxCell>
         <mxCell id="8bbCRTIw0yRLnIztGSLi-112" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="zbycie akcji w PSA nie wymaga notariusza!" vertex="1">
           <mxGeometry height="30" width="270" x="-350" y="2393.25" as="geometry" />
@@ -873,7 +873,7 @@
           <mxGeometry height="30" width="170" x="951.25" y="2313.5" as="geometry" />
         </mxCell>
         <mxCell id="8bbCRTIw0yRLnIztGSLi-140" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="dokument założycielski i do rejestracji&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="250" x="1001.25" y="1490" as="geometry" />
+          <mxGeometry height="30" width="250" x="1001.25" y="1430" as="geometry" />
         </mxCell>
         <mxCell id="8bbCRTIw0yRLnIztGSLi-141" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="reprezentacja i wyłączna odpowiedzialność za spółkę (decyzje)!" vertex="1">
           <mxGeometry height="30" width="380" x="951.25" y="2353.5" as="geometry" />
@@ -939,6 +939,12 @@
         </mxCell>
         <mxCell id="8bbCRTIw0yRLnIztGSLi-170" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="regulamin rozliczania projektu (excel)" vertex="1">
           <mxGeometry height="30" width="240" x="-55" y="2572" as="geometry" />
+        </mxCell>
+        <mxCell id="TmmlFNzVFcOxhoJ5fm29-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Seria A1 zwykłe: 40K po 10K dla T,A,S,K" vertex="1">
+          <mxGeometry height="30" width="260" x="1480" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="TmmlFNzVFcOxhoJ5fm29-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Seria A2: 10K uprzywilejowanego&amp;nbsp; prawa głosu x2 dla Marka" vertex="1">
+          <mxGeometry height="30" width="370" x="1480" y="1500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
